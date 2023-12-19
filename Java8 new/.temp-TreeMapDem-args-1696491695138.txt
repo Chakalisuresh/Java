@@ -1,0 +1,5 @@
+-Dfile.encoding=windows-1252
+-classpath
+"C:\\Users\\CSURESH\\OneDrive - Capgemini\\Desktop\\Eclipse Projects\\Java8 new\\bin"
+-XX:+ShowCodeDetailsInExceptionMessages
+com.cg.invokinglambdaexpressioninfunctionalinterfaces4.ThreadsDemo1
