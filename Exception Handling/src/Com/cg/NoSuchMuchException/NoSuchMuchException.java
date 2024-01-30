@@ -1,4 +1,4 @@
-package Com.cgNoSuchMuchException;
+package Com.cg.NoSuchMuchException;
 
 import java.util.HashSet;
 import java.util.Hashtable;
